@@ -1,4 +1,4 @@
 # Artificial-Neural-Network
-![alternativetext](desktop/NeuralNetTest1.png)
-![alternativetext](desktop/NeuralNetTest2.png)
+![NeuralNetTest1](NeuralNetTest1.png)
+![NeuralNetTest2](NeuralNetTest2.png)
 
