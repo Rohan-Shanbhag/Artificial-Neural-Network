@@ -1,4 +1,5 @@
 # Artificial-Neural-Network
-![alt text](desktop/NeuralNetTest1.png)
-![alt text](desktop/NeuralNetTest2.png)
 
+# Neural Network in Functioning Form
+![screenshot](/Users/rohanshanbhag99/Desktop/NeuralNetTest1.png)
+![screenshot](/Users/rohanshanbhag99/Desktop/NeuralNetTest2.png)
